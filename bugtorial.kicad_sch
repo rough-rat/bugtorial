@@ -4,6 +4,13 @@
 	(generator_version "10.0")
 	(uuid "8c36ac0c-681e-40de-93c2-baec7ea0b22d")
 	(paper "A4")
+	(title_block
+		(title "bugtorial")
+		(date "2026")
+		(comment 1 "SPDX-License-Identifier: CERN-OHL-P-2.0")
+		(comment 2 "SPDX-FileCopyrightText: 2026 Jakub \"critbit\" Sadowski (hardware), @weasel (artwork)")
+		(comment 3 "Licenses: see LICENSES/ and README.md")
+	)
 	(lib_symbols
 		(symbol "Device:Battery_Cell"
 			(pin_numbers
